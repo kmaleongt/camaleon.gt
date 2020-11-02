@@ -22,7 +22,7 @@
             <p style="font-size: 16px;color: #5E5E5E;line-height: 24px;">
                 {!!
                     __('shop::app.mail.order.comment.help', [
-                        'support_email' => '<a style="color:#0041FF" href="mailto:' . config('mail.from.address') . '">' . config('mail.from.address'). '</a>'
+                        'support_email' => '<a style="color:#049444" href="mailto:' . config('mail.from.address') . '">' . config('mail.from.address'). '</a>'
                         ])
                 !!}
             </p>

@@ -7,7 +7,7 @@ return [
                 'general'  => 'Algemeen',
                 'category'  => 'Categorie',
                 'settings'  => 'Instellingen',
-                'extension_name' => 'Velocity Thema',
+                'extension_name' => 'e-Shop Camaleón Thema',
                 'error-module-inactive' => 'Waarschuwing: Velocity thema status is inactief',
             ],
 
@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'Custom Heading',
                 'catalog-type' => 'Product Catalog Type',
                 'static-description' => 'Inhoud omschrijving',
-                'page-link' => 'Page Link [e.g. http://example.com/../../]',
+                'page-link' => 'Page Link [e.g. https://camaleon.gt/../../]',
             ],
             'datagrid' => [
                 'id' => 'Id',
@@ -91,7 +91,7 @@ return [
         ],
         'meta-data' => [
             'footer' => 'Voettekst',
-            'title' => 'Velocity metadata',
+            'title' => 'e-Shop Camaleón metadata',
             'activate-slider' => 'Activeer slider',
             'home-page-content' => 'Startpagina-inhoud',
             'footer-left-content' => 'Inhoud voettekst links',

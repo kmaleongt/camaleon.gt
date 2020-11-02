@@ -8,7 +8,7 @@ body {
     height: 100%;
 }
 
-a { color: rgb(0, 65, 255); text-decoration: none;}
+a { color: rgb(0, 102, 58); text-decoration: none;}
 
 .initial-display{
     padding-top: 50px;
@@ -34,7 +34,7 @@ a { color: rgb(0, 65, 255); text-decoration: none;}
 }
 
 .btn-primary {
-    background-color: #0041FF;
+    background-color: #049444;
 }
 
 .warning {
@@ -59,7 +59,7 @@ a { color: rgb(0, 65, 255); text-decoration: none;}
 }
 
 .form-control:focus {
-    border-color: #0041FF;
+    border-color: #049444;
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(11, 50, 139, 0.5);
 }
 
@@ -157,7 +157,7 @@ a { color: rgb(0, 65, 255); text-decoration: none;}
     height: 48px;
     display: inline-block;
     box-sizing: border-box;
-    border-top: solid 6px #0041FF;
+    border-top: solid 6px #049444;
     border-right: solid 6px #bababa;
     border-bottom: solid 6px #bababa;
     border-left: solid 6px #bababa;
@@ -278,7 +278,7 @@ a { color: rgb(0, 65, 255); text-decoration: none;}
         transition: none; } }
   
   .select2-container--bootstrap4.select2-container--focus .select2-selection {
-    border-color: #0041FF;
+    border-color: #049444;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
             box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
   
@@ -319,7 +319,7 @@ a { color: rgb(0, 65, 255); text-decoration: none;}
   
   .select2-container--bootstrap4 .select2-results__option--highlighted,
   .select2-container--bootstrap4 .select2-results__option--highlighted.select2-results__option[aria-selected=true] {
-    background-color: #0041FF;
+    background-color: #049444;
     color: #f8f9fa; }
   
   .select2-container--bootstrap4 .select2-results__option[role=group] {

@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'عنوان سفارشی',
                 'catalog-type' => 'نوع کاتالوگ محصول',
                 'static-description' => 'توضیحات محتوا',
-                'page-link' => '[e.g. http://example.com/../../] پیوند صفحه',
+                'page-link' => '[e.g. https://camaleon.gt/../../] پیوند صفحه',
             ],
             'datagrid' => [
                 'id' => 'Id',

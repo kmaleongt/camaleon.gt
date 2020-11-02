@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'Niestandardowy nagłówek',
                 'catalog-type' => 'Rodzaj katalogu produktu',
                 'static-description' => 'Opis treści',
-                'page-link' => 'Page Link [e.g. http://example.com/../../]',
+                'page-link' => 'Page Link [e.g. https://camaleon.gt/../../]',
             ],
             'datagrid' => [
                 'id' => 'Id',

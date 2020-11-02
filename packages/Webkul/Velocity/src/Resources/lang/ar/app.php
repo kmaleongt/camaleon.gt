@@ -7,7 +7,7 @@ return [
                 'general'  => 'جنرال لواء',
                 'category'  => 'الفئة',
                 'settings'  => 'الإعدادات',
-                'extension_name' => 'Velocity موضوع',
+                'extension_name' => 'e-Shop Camaleón موضوع',
                 'error-module-inactive' => 'Warning: حالة سمة السرعة غير نشطة',
             ],
 
@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'عنوان مخصص',
                 'catalog-type' => 'نوع كتالوج المنتج',
                 'static-description' => 'وصف المحتوى',
-                'page-link' => '[e.g. http://example.com/../../] رابط الصفحة',
+                'page-link' => '[e.g. https://camaleon.gt/../../] رابط الصفحة',
             ],
             'datagrid' => [
                 'id' => 'Id',
@@ -91,7 +91,7 @@ return [
         ],
         'meta-data' => [
             'footer' => 'تذييل',
-            'title' => 'Velocity meta data',
+            'title' => 'Metadatos de e-Shop Camaleón',
             'activate-slider' => 'تنشيط شريط التمرير',
             'home-page-content' => 'محتوى الصفحة الرئيسية',
             'footer-left-content' => 'تذييل يسار المحتوى',

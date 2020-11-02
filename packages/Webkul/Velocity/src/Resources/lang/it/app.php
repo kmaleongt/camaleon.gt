@@ -7,7 +7,7 @@ return [
                 'general'  => 'Generale',
                 'category'  => 'Categoria',
                 'settings'  => 'Impostazioni',
-                'extension_name' => 'Velocity Theme',
+                'extension_name' => 'e-Shop Camaleón Theme',
                 'error-module-inactive' => 'Attenzione: lo stato del tema Velocity è insattivo',
             ],
 
@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'Custom Heading',
                 'catalog-type' => 'Tipo Catalogo Prodotti',
                 'static-description' => 'Descrizione Contenuto',
-                'page-link' => 'Link Pagina [es. http://example.com/../../]',
+                'page-link' => 'Link Pagina [es. https://camaleon.gt/../../]',
             ],
             'datagrid' => [
                 'id' => 'Id',
@@ -92,7 +92,7 @@ return [
         ],
         'meta-data' => [
             'footer' => 'Footer',
-            'title' => 'Velocity meta data',
+            'title' => 'Metadatos de e-Shop Camaleón',
             'activate-slider' => 'Attiva Slider',
             'home-page-content' => 'Contenuti Home Page',
             'footer-left-content' => 'Contenuti Footer Sinistra',

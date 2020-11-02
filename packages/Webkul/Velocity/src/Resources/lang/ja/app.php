@@ -79,7 +79,7 @@ return [
                 'custom-heading'     => 'カスタム見出し',
                 'catalog-type'       => '製品カタログのタイプ',
                 'static-description' => 'コンテンツの説明',
-                'page-link'          => 'ページリンク[例： http://example.com/../../]',
+                'page-link'          => 'ページリンク[例： https://camaleon.gt/../../]',
             ],
             'datagrid'            => [
                 'id'           => 'Id',

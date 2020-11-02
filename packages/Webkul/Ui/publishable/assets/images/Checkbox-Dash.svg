@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Checkbox-Dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Base" stroke="#0041FF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="22" height="22" rx="2"></rect>
-        <path d="M6,12 L17.215332,12" id="Path-8" stroke="#0041FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <rect id="Base" stroke="#049444" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="22" height="22" rx="2"></rect>
+        <path d="M6,12 L17.215332,12" id="Path-8" stroke="#049444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
     </g>
 </svg>

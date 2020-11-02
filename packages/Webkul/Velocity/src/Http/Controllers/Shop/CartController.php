@@ -97,7 +97,7 @@ class CartController extends Controller
 
             $product = $this->productRepository->find($id);
 
-            Log::error('Velocity CartController: ' . $exception->getMessage(),
+            Log::error('e-Shop Camaleón CartController: ' . $exception->getMessage(),
                 ['product_id' => $id, 'cart_id' => cart()->getCart() ?? 0]);
 
             $response = [

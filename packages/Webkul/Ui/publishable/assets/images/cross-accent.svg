@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Cross-Accent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M4.5,13.5 L13.5,4.5" id="Path-2" stroke="#0041FF" stroke-width="3" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) "></path>
-        <path d="M4.5,13.5 L13.5,4.5" id="Path-2" stroke="#0041FF" stroke-width="3"></path>
+        <path d="M4.5,13.5 L13.5,4.5" id="Path-2" stroke="#049444" stroke-width="3" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) "></path>
+        <path d="M4.5,13.5 L13.5,4.5" id="Path-2" stroke="#049444" stroke-width="3"></path>
     </g>
 </svg>

@@ -7,7 +7,7 @@ return [
                 'general'  => 'Genel',
                 'category'  => 'Kategori',
                 'settings'  => 'Ayarlar',
-                'extension_name' => 'Velocity Teması',
+                'extension_name' => 'e-Shop Camaleón Teması',
                 'error-module-inactive' => 'Uyarı: Velocity teması pasif durumda!',
             ],
 
@@ -79,7 +79,7 @@ return [
                 'custom-heading' => 'Mağaza Başlığı',
                 'catalog-type' => 'Ürün Katalog Tipi',
                 'static-description' => 'İÇerik Açıklaması',
-                'page-link' => 'Sayfa Linki [örn. http://example.com/../../]',
+                'page-link' => 'Sayfa Linki [örn. https://camaleon.gt/../../]',
             ],
             'datagrid' => [
                 'id' => 'Id',
@@ -91,7 +91,7 @@ return [
         ],
         'meta-data' => [
             'footer' => 'Alt Kısım',
-            'title' => 'Velocity Meta Bilgisi',
+            'title' => 'e-Shop Camaleón Meta Bilgisi',
             'activate-slider' => 'Slider Etkinleştir',
             'home-page-content' => 'Ana Sayfa İçeriği',
             'footer-left-content' => 'Alt Sol İçeriği',
