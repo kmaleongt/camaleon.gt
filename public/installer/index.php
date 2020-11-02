@@ -11,7 +11,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>Bagisto Installer</title>
+        <title>e-Shop Camaleón Installer</title>
 
         <link rel="icon" sizes="16x16" href="Images/favicon.ico">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500">
@@ -141,7 +141,7 @@
         ?>
 
         <div style="margin-bottom: 5px; margin-top: 30px; text-align: center;">
-            <a href="https://bagisto.com/" target="_blank">Bagisto</a> a community project by <a href="https://webkul.com/" target="_blank">Webkul</a>
+            <a href="https://camaleon.gt/" target="_blank">e-Shop Camaleón</a> a project by <a href="https://realsoft.dev/" target="_blank">Real Software Solutions</a>
         </div>
 
         <script src="<?php echo $jsURL; ?>" ></script>
