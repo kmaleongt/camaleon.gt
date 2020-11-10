@@ -66,9 +66,6 @@
             <div class="sticker new" v-if="product.new">
                 {{ product.new }}
             </div>
-            <div class="sticker new" v-if="product.new">
-                {{ product.new }}
-            </div>
 
             <div class="product-price fs16" v-html="product.priceHTML"></div>
 
