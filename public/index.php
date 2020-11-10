@@ -1,21 +1,21 @@
 <?php
 
-$location = str_replace('\\', '/', getcwd());
-$currentLocation = explode("/", $location);
-$desiredLocation = implode("/", $currentLocation);
-$installFile = $desiredLocation . '/installer' . '/install.php';
+// $location = str_replace('\\', '/', getcwd());
+// $currentLocation = explode("/", $location);
+// $desiredLocation = implode("/", $currentLocation);
+// $installFile = $desiredLocation . '/installer' . '/install.php';
 
-if (file_exists($installFile)) {
-    $install = require __DIR__.'/installer/install.php';
-} else {
-    $install = null;
-}
+// if (file_exists($installFile)) {
+//     $install = require __DIR__.'/installer/install.php';
+// } else {
+//     $install = null;
+// }
 
-if (! is_null($install)) {
+// if (! is_null($install)) {
 
-    header("Location: $install");
+//     header("Location: $install");
 
-} else {
+// } else {
 
     /*
     |--------------------------------------------------------------------------
@@ -30,7 +30,7 @@ if (! is_null($install)) {
     */
 
     require __DIR__.'/../vendor/autoload.php';
-}
+// }
 
 
 /**

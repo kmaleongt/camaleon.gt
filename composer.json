@@ -20,6 +20,7 @@
         "algolia/algoliasearch-client-php": "^2.2",
         "astrotomic/laravel-translatable": "^11.0.0",
         "babenkoivan/elastic-scout-driver": "^1.1",
+        "bagisto/bagisto-package-generator": "9999999-dev",
         "bagistobrasil/bagisto-product-social-share": "^0.1.2",
         "barryvdh/laravel-dompdf": "0.8.6",
         "doctrine/dbal": "2.9.2",
@@ -107,7 +108,8 @@
         "Webkul\\CMS\\": "packages/Webkul/CMS/src",
         "Webkul\\Velocity\\": "packages/Webkul/Velocity/src",
         "Webkul\\BookingProduct\\": "packages/Webkul/BookingProduct/src",
-        "Webkul\\SocialLogin\\": "packages/Webkul/SocialLogin/src"
+        "Webkul\\SocialLogin\\": "packages/Webkul/SocialLogin/src",
+        "Camaleon\\QPayPro\\": "packages/Camaleon/QPayPro/src"
       }
     },
 
