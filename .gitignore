@@ -1,13 +1,5 @@
 /docker-compose-collection
-/storage/dcc-data/
 /node_modules
-/public/hot
-/public/storage
-/public/css
-/public/js
-/public/vendor
-/public/themes
-/public/fonts
 /vendor
 /data
 /.idea
@@ -24,5 +16,3 @@ package-lock.json
 yarn.lock
 .php_cs.cache
 storage/*.key
-/resources/themes/velocity/*
-/resources/lang/vendor/webkul/admin/*
