@@ -1703,12 +1703,12 @@
 
     &.new {
         background-color: $theme-color;
-        display: block;
+        display: inline-block;
     }
 
     &.cyberdays {
         background-color: $theme-color-cyberdays;
-        display: block;
+        display: inline-block;
     }
 }
 
