@@ -1312,14 +1312,14 @@ return [
             'invoice-slip-design' => 'Diseño parte trasera factura',
             'logo' => 'logo',
             'store-name' => 'Nombre de la tienda',
-            'vat-number' => 'Número de valor agregado',
+            'vat-number' => 'Número de valor agregado (EU)',
             'contact-number' => 'Número de contacto',
             'bank-details' => 'Detalles del banco',
-            'mailing-address' => 'Send Check to',
-            'instructions' => 'Instructions',
-            'custom-scripts' => 'Custom Scripts',
-            'custom-css' => 'Custom CSS',
-            'custom-javascript' => 'Custom Javascript'
+            'mailing-address' => 'Enviar cheque a',
+            'instructions' => 'Instrucciones',
+            'custom-scripts' => 'Scripts personalizados',
+            'custom-css' => 'CSS personalizado',
+            'custom-javascript' => 'Javascript personalizado'
        ]
     ]
 ];

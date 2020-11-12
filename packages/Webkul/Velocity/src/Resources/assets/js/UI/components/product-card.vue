@@ -22,6 +22,10 @@
                     {{ product.new }}
                 </div>
 
+                <div class="sticker cyberdays" v-if="product.cyberdays">
+                    {{ product.cyberdays }}
+                </div>
+
                 <div class="product-price" v-html="product.priceHTML"></div>
 
                 <div class="product-rating" v-if="product.totalReviews && product.totalReviews > 0">
@@ -65,6 +69,10 @@
 
             <div class="sticker new" v-if="product.new">
                 {{ product.new }}
+            </div>
+
+            <div class="sticker new" v-if="product.cyberdays">
+                {{ product.cyberdays }}
             </div>
 
             <div class="product-price fs16" v-html="product.priceHTML"></div>
