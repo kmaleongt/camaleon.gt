@@ -18,9 +18,6 @@
                     </a>
                 </div>
 
-                <div class="sticker new" v-if="product.new">
-                    {{ product.new }}
-                </div>
 
                 <div class="sticker cyberdays" v-if="product.cyberdays">
                     {{ product.cyberdays }}
@@ -67,11 +64,8 @@
                 </a>
             </div>
 
-            <div class="sticker new" v-if="product.new">
-                {{ product.new }}
-            </div>
 
-            <div class="sticker new" v-if="product.cyberdays">
+            <div class="sticker cyberdays" v-if="product.cyberdays">
                 {{ product.cyberdays }}
             </div>
 

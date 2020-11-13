@@ -3,25 +3,25 @@
 return [
     'admin' => [
         'system' => [
-            'social-login' => 'Social Login',
-            'enable-facebook' => 'Enable Facebook',
-            'enable-twitter' => 'Enable Twitter',
-            'enable-google' => 'Enable Google',
-            'enable-twitter' => 'Enable Twitter',
-            'enable-linkedin' => 'Enable LinkedIn',
-            'enable-github' => 'Enable Github'
+            'social-login' => 'Inicio de sesión social',
+            'enable-facebook' => 'Habilitar Facebook',
+            'enable-twitter' => 'Habilitar Twitter',
+            'enable-google' => 'Habilitar Google',
+            'enable-twitter' => 'Habilitar Twitter',
+            'enable-linkedin' => 'Habilitar LinkedIn',
+            'enable-github' => 'Habilitar Github'
         ]
     ],
 
     'shop' => [
         'customer' => [
             'login-form' => [
-                'continue-with-facebook' => 'Continue With Facebook',
-                'continue-with-twitter' => 'Continue With Twitter',
-                'continue-with-google' => 'Continue With Google',
-                'continue-with-linkedin' => 'Continue With LinkedIn',
-                'continue-with-github' => 'Continue With Github',
-                'or' => 'Or'
+                'continue-with-facebook' => 'Continuar con Facebook',
+                'continue-with-twitter' => 'Continuar con Twitter',
+                'continue-with-google' => 'Continuar con Google',
+                'continue-with-linkedin' => 'Continuar con LinkedIn',
+                'continue-with-github' => 'Continuar con Github',
+                'or' => 'Ya sea'
             ]
         ]
     ]

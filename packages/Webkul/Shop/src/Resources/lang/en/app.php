@@ -1,94 +1,94 @@
 <?php
 
 return [
-    'invalid_vat_format' => 'The given vat id has a wrong format',
-    'security-warning' => 'Suspicious activity found!!!',
-    'nothing-to-delete' => 'Nothing to delete',
+    'invalid_vat_format' => 'El ID VAT proporcionado tiene un formato incorrecto',
+    'security-warning' => 'Se ha encontrado actividad sospechosa!!!',
+    'nothing-to-delete' => 'Nada que borrar',
 
     'layouts' => [
-        'my-account' => 'My Account',
-        'profile' => 'Profile',
-        'address' => 'Address',
-        'reviews' => 'Reviews',
-        'wishlist' => 'Wishlist',
-        'orders' => 'Orders',
-        'downloadable-products' => 'Downloadable Products'
+        'my-account' => 'Mi cuenta',
+        'profile' => 'Perfil',
+        'address' => 'Dirección',
+        'reviews' => 'Reseñas',
+        'wishlist' => 'Lista de deseos',
+        'orders' => 'Pedidos',
+        'downloadable-products' => 'Productos descargables'
     ],
 
     'common' => [
-        'error' => 'Something went wrong, please try again later.',
-        'no-result-found' => 'We could not find any records.'
+        'error' => 'Se produjo un error. Vuelve a intentarlo más tarde.',
+        'no-result-found' => 'No pudimos encontrar ningún registro.'
     ],
 
     'home' => [
-        'page-title' => config('app.name') . ' - Home',
-        'featured-products' => 'Featured Products',
-        'new-products' => 'New Products',
-        'verify-email' => 'Verify your email account',
-        'resend-verify-email' => 'Resend Verification Email'
+        'page-title' => config('app.name') . ' - Inicio',
+        'featured-products' => 'Productos Destacados',
+        'new-products' => 'Nuevos productos',
+        'verify-email' => 'Verifica tu cuenta de correo electrónico',
+        'resend-verify-email' => 'Reenviar correo electrónico de verificación'
     ],
 
     'header' => [
-        'title' => 'Account',
-        'dropdown-text' => 'Manage Cart, Orders & Wishlist',
-        'sign-in' => 'Sign In',
-        'sign-up' => 'Sign Up',
-        'account' => 'Account',
-        'cart' => 'Cart',
-        'profile' => 'Profile',
-        'wishlist' => 'Wishlist',
-        'cart' => 'Cart',
-        'logout' => 'Logout',
-        'search-text' => 'Search products here'
+        'title' => 'Cuenta',
+        'dropdown-text' => 'Administrar carrito, pedidos y lista de deseos',
+        'sign-in' => 'Inicia sesión',
+        'sign-up' => 'Regístrate',
+        'account' => 'Cuenta',
+        'cart' => 'Carrito',
+        'profile' => 'Perfil',
+        'wishlist' => 'Lista de deseos',
+        'cart' => 'Carrito',
+        'logout' => 'Cerrar sesión',
+        'search-text' => 'Buscar productos aquí'
     ],
 
     'minicart' => [
-        'view-cart' => 'View Shopping Cart',
-        'checkout' => 'Checkout',
-        'cart' => 'Cart',
+        'view-cart' => 'Ver carro de compras',
+        'checkout' => 'Revisar',
+        'cart' => 'Carrito',
         'zero' => '0'
     ],
 
     'footer' => [
-        'subscribe-newsletter' => 'Subscribe Newsletter',
-        'subscribe' => 'Subscribe',
-        'locale' => 'Locale',
-        'currency' => 'Currency',
+        'subscribe-newsletter' => 'Suscribirse al boletín informativo',
+        'subscribe' => 'Suscribir',
+        'locale' => 'Idioma',
+        'currency' => 'Moneda',
     ],
 
     'subscription' => [
-        'unsubscribe' => 'Unsubcribe',
-        'subscribe' => 'Subscribe',
-        'subscribed' => 'You are now subscribed to subscription emails.',
-        'not-subscribed' => 'You can not be subscribed to subscription emails, please try again later.',
-        'already' => 'You are already subscribed to our subscription list.',
-        'unsubscribed' => 'You are unsubscribed from subscription mails.',
-        'already-unsub' => 'You are already unsubscribed.',
-        'not-subscribed' => 'Error! Mail can not be sent currently, please try again later.'
+        'unsubscribe' => 'Darse de baja',
+        'subscribe' => 'Suscribir',
+        'subscribed' => 'Ahora está suscrito para recibir las novedades de nuestra tienda.',
+        'not-subscribed' => 'No puede suscribirse para recibir las novedades de nuestra tienda, vuelva a intentarlo más tarde.',
+        'already' => 'Ya estás suscrito para recibir las novedades de nuestra tienda.',
+        'unsubscribed' => 'Se canceló la suscripción para recibir las novedades de nuestra tienda.',
+        'already-unsub' => 'Ya estás cancelado de las novedades de nuestra tienda.',
+        'not-subscribed' => '¡Error! El correo no se puede enviar actualmente. Vuelve a intentarlo más tarde.'
     ],
 
     'search' => [
-        'no-results' => 'No Results Found',
-        'page-title' => config('app.name') . ' - Search',
-        'found-results' => 'Search Results Found',
-        'found-result' => 'Search Result Found',
-        'analysed-keywords' => 'Analysed Keywords'
+        'no-results' => 'No se han encontrado resultados',
+        'page-title' => config('app.name') . ' - Buscar',
+        'found-results' => 'Resultados de búsqueda encontrados',
+        'found-result' => 'Resultado de búsqueda encontrado',
+        'analysed-keywords' => 'Palabras clave analizadas'
     ],
 
     'reviews' => [
-        'title' => 'Title',
-        'add-review-page-title' => 'Add Review',
-        'write-review' => 'Write a review',
-        'review-title' => 'Give your review a title',
-        'product-review-page-title' => 'Product Review',
-        'rating-reviews' => 'Rating & Reviews',
-        'submit' => 'SUBMIT',
-        'delete-all' => 'All Reviews has deleted Succesfully',
-        'ratingreviews' => ':rating Ratings & :review Reviews',
-        'star' => 'Star',
+        'title' => 'Título',
+        'add-review-page-title' => 'Agregar una opinión',
+        'write-review' => 'Escribe una reseña',
+        'review-title' => 'Dale un título a tu reseña',
+        'product-review-page-title' => 'Reseña de producto',
+        'rating-reviews' => 'Calificación y reseñas',
+        'submit' => 'ENVIAR',
+        'delete-all' => 'Todas las reseñas se han eliminado correctamente',
+        'ratingreviews' => ':rating Calificaciones y :review Reseñas',
+        'star' => 'Estrella',
         'percentage' => ':percentage %',
-        'id-star' => 'star',
-        'name' => 'Name',
+        'id-star' => 'estrella',
+        'name' => 'Nombre',
     ],
 
     'customer' => [

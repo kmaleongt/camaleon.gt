@@ -4,7 +4,7 @@
 
             {{-- sale-button --}}
             @if ($product['actual-price'] > $product['selling-price'])
-                <button type="button" class="sale-btn card-sale-btn fw6">Sale</button>
+                <button type="button" class="sale-btn card-sale-btn fw6">Rebaja</button>
             @endif
 
             {{-- product image --}}
