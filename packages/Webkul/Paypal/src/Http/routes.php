@@ -5,6 +5,7 @@ Route::group(['middleware' => ['web']], function () {
 
         Route::get('/redirect', 'Webkul\Paypal\Http\Controllers\StandardController@redirect')->name('paypal.standard.redirect');
 
+        Route::post('/validar', 'Webkul\Paypal\Http\Controllers\StandardController@validar')->name('paypal.standard.validar');
         Route::get('/success', 'Webkul\Paypal\Http\Controllers\StandardController@success')->name('paypal.standard.success');
 
         Route::get('/cancel', 'Webkul\Paypal\Http\Controllers\StandardController@cancel')->name('paypal.standard.cancel');
