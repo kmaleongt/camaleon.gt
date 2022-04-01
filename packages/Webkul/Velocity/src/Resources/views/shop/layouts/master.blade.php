@@ -64,16 +64,16 @@
     </head>
 
     <body @if (core()->getCurrentLocale()->direction == 'rtl') class="rtl" @endif>
-        <div id="fb-root"></div>
 
-        <!-- Your Plugin de chat code -->
-        <div id="fb-customer-chat" class="fb-customerchat">
-        </div>
         {!! view_render_event('bagisto.shop.layout.body.before') !!}
 
         @include('shop::UI.particals')
 
+<div id="fb-root"></div>
 
+        <!-- Your Plugin de chat code -->
+        <div id="fb-customer-chat" class="fb-customerchat">
+        </div>
         <div id="app">
             {{-- <responsive-sidebar v-html="responsiveSidebarTemplate"></responsive-sidebar> --}}
 
