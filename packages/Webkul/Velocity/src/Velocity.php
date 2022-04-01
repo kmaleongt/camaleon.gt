@@ -24,17 +24,17 @@ class Velocity
      * @var array
      */
 	protected $catalog_type = [
-        'new'     => 'New Arrival',
-        'offer'   => 'Offered Product [Special]',
-        'popular' => 'Popular Products',
-        'viewed'  => 'Most Viewed',
-        'rated'   => 'Most Rated',
-        'custom'  => 'Custom Selection',
+        'new'     => 'Nuevo ingreso',
+        'offer'   => 'Producto ofertado [Special]',
+        'popular' => 'Productos Populares',
+        'viewed'  => 'Más Visitados',
+        'rated'   => 'Mejor Calificados',
+        'custom'  => 'Selección personalizada',
     ];
 
 	/**
 	 * CategoryRepository object
-	 * 
+	 *
 	 * @var \Webkul\Category\Repositories\CategoryRepository
 	 */
 	protected $categoryRepository;
