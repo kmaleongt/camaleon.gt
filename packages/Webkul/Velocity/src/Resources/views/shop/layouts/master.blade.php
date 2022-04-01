@@ -70,11 +70,6 @@
         @include('shop::UI.particals')
 
         <!-- Messenger Plugin de chat Code -->
-        <div id="fb-root"></div>
-
-        <!-- Your Plugin de chat code -->
-        <div id="fb-customer-chat" class="fb-customerchat">
-        </div>
 
         <script>
         var chatbox = document.getElementById('fb-customer-chat');
@@ -99,6 +94,12 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
         </script>
+
+        <div id="fb-root"></div>
+
+        <!-- Your Plugin de chat code -->
+        <div id="fb-customer-chat" class="fb-customerchat">
+        </div>
 
         <div id="app">
             {{-- <responsive-sidebar v-html="responsiveSidebarTemplate"></responsive-sidebar> --}}
